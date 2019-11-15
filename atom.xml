@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Number&#39;s Blogs</title>
   
-  
+  <subtitle>记录难波的辛酸历程</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zz203203zhang.github.io/"/>
