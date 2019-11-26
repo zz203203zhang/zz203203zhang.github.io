@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://zz203203zhang.github.io/schemas/sitemap/0.9">
   <url>
+    <loc>https://zz203203zhang.github.io/2019/11/26/temp/</loc>
+    <lastmod>2019-11-26</lastmod>
+  </url>  <url>
     <loc>https://zz203203zhang.github.io/2019/11/26/SAP%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7%E6%94%B6%E8%B4%A7%E9%AA%8C%E6%94%B6/</loc>
     <lastmod>2019-11-26</lastmod>
   </url>  <url>
@@ -11,9 +14,6 @@
     <lastmod>2019-11-12</lastmod>
   </url>  <url>
     <loc>https://zz203203zhang.github.io/2019/11/12/hello-world/</loc>
-    <lastmod>2019-11-12</lastmod>
-  </url>  <url>
-    <loc>https://zz203203zhang.github.io/2019/11/12/temp/</loc>
     <lastmod>2019-11-12</lastmod>
   </url>
 </urlset>
