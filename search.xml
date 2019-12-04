@@ -112,13 +112,6 @@
       </tags>
   </entry>
   <entry>
-    <title>MD Temp</title>
-    <url>/2019/11/26/temp/</url>
-    <content><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line"></span><br><span class="line">categories:</span><br><span class="line">/* 分类，支持多级，比如：</span><br><span class="line">- technology</span><br><span class="line">- computer</span><br><span class="line">- computer-aided-art</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line">tags:</span><br><span class="line">/* 标签</span><br><span class="line">** 多个可以这样写</span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">- 标签3</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line">description:</span><br><span class="line">/* 文章的描述，在每篇文章标题下方显示</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line">comments:</span><br><span class="line">/* 是否开启评论</span><br><span class="line">** 默认值是 true</span><br><span class="line">** 要关闭写 false</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line">photos:</span><br><span class="line">/* Gallery support，用来支持画廊 / 相册，用法如下：</span><br><span class="line">- photo_url_1</span><br><span class="line">- photo_url_2</span><br><span class="line">- photo_url_3</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line">link:</span><br><span class="line">/* 文章的外部链接</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line">top: true</span><br><span class="line">/* 文章置顶</span><br><span class="line">** true就是开启，flase就是关闭置顶。</span><br><span class="line">*/</span><br><span class="line"></span><br><span class="line">password:</span><br><span class="line">/* 文章密码，参考本文&quot;1.20.文章加密访问&quot;</span><br><span class="line">** 需配置好，否则请勿添加！</span><br><span class="line">*/</span><br></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
     <title>SAP固定资产收货验收</title>
     <url>/2019/11/26/SAP%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7%E6%94%B6%E8%B4%A7%E9%AA%8C%E6%94%B6/</url>
     <content><![CDATA[<h1 id="SAP固定资产收货验收方法"><a href="#SAP固定资产收货验收方法" class="headerlink" title="SAP固定资产收货验收方法"></a>SAP固定资产收货验收方法</h1><h2 id="1-查找你的采购订单"><a href="#1-查找你的采购订单" class="headerlink" title="1.查找你的采购订单"></a>1.查找你的采购订单</h2><h3 id="1-1-查找采购订单（按供应商）"><a href="#1-1-查找采购订单（按供应商）" class="headerlink" title="1.1.查找采购订单（按供应商）"></a>1.1.查找采购订单（按供应商）</h3><blockquote>
@@ -169,24 +162,6 @@
       <tags>
         <tag>SAP</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2019/11/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>Shell</title>
