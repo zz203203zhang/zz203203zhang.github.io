@@ -126,47 +126,47 @@
     <content><![CDATA[<h1 id="SAP固定资产收货验收方法"><a href="#SAP固定资产收货验收方法" class="headerlink" title="SAP固定资产收货验收方法"></a>SAP固定资产收货验收方法</h1><h2 id="1-查找你的采购订单"><a href="#1-查找你的采购订单" class="headerlink" title="1.查找你的采购订单"></a>1.查找你的采购订单</h2><h3 id="1-1-查找采购订单（按供应商）"><a href="#1-1-查找采购订单（按供应商）" class="headerlink" title="1.1.查找采购订单（按供应商）"></a>1.1.查找采购订单（按供应商）</h3><blockquote>
 <p>登录SAP软件后，在左侧“用户菜单”中选择“采购订单显示&amp;打印”，在子菜单中选择“ME2L - 采购订单（按供应商）”，双击打开</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/01.jpg" alt="01"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_01.jpg" alt="01"></p>
 <blockquote>
 <p>在“供应商名称”输入框中输入“*供应商名称*”，这里*用来前后通配，这样可以搜索包含你输入的供应商名字的所有供应商信息，然后点击左上角的确定进行搜索</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/02.jpg" alt="02"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_02.jpg" alt="02"></p>
 <blockquote>
 <p>点击上图搜索后，会跳转到搜索结果，这里请耐心等待，可能会由于网络原因出现卡顿，如果长时间未出现结果，请切换到有线网络进行尝试。</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/03.jpg" alt="03"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_03.jpg" alt="03"></p>
 <blockquote>
 <p>根据上图所示，核查自己的采购订单，确定后双击红色箭头的采购凭证（最好复制一下，之后会用到这个单号），双击采购凭证后进入到下一个节点，发起收获流程。</p>
 </blockquote>
 <h2 id="2-发起收货流程"><a href="#2-发起收货流程" class="headerlink" title="2.发起收货流程"></a>2.发起收货流程</h2><h3 id="2-1-发起收获流程"><a href="#2-1-发起收获流程" class="headerlink" title="2.1.发起收获流程"></a>2.1.发起收获流程</h3><blockquote>
 <p>在SAP左上角快捷命令输入框中输入“MIGO”（注意均为大写），然后回车进入说或采购订单</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/04.jpg" alt="04"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_04.jpg" alt="04"></p>
 <blockquote>
 <p>确认相关信息，在下图绿色位置输入刚才复制的采购凭证单号，点击右侧搜索</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/05.jpg" alt="05"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_05.jpg" alt="05"></p>
 <blockquote>
 <p>1.点击搜索后，调出相关确认的采购订单，在绿色区域调入相应的交货单，如果没有交换单，填入之前复制的采购凭证即可。</p>
 <p>2.勾选“项目确定”，点击蓝色框中的搜索按钮。</p>
 <p>3.然后点击黄色框中的“数量”，在“以录入项单位计的数量中填入相应的数量”（这里需要注意自己单位的价格，按自己需求填写，这里会核算出本次收货确认的总体付款金额）</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/06.jpg" alt="06"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_06.jpg" alt="06"></p>
 <blockquote>
 <p>然后点击左上角的检查按钮，进行流程检查和关键要素检查，如果没有特殊红色报错，直接点击过账或者保存即可</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/07.jpg" alt="07"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_07.jpg" alt="07"></p>
 <blockquote>
 <p>如果出现黄色警告提醒，请忽略，我这里是分阶段付款，由于总体金额和本次付款金额不符，并且不完全，忽略即可</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/08.jpg" alt="08"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_08.jpg" alt="08"></p>
 <h2 id="3-填错了冲销操作"><a href="#3-填错了冲销操作" class="headerlink" title="3.填错了冲销操作"></a>3.填错了冲销操作</h2><h3 id="3-1-冲销操作"><a href="#3-1-冲销操作" class="headerlink" title="3.1.冲销操作"></a>3.1.冲销操作</h3><blockquote>
 <p>1.在SAP左上角快捷命令输入框中输入“MIGO”（注意均为大写），然后回车进入说或采购订单</p>
 <p>2.确认相关信息，在下图绿色位置输入刚才复制的采购凭证单号，点击右侧搜索</p>
 <p>3.在红色框内，选择“A03 取消”，确认采购凭证单号，点击左上角保存即可冲销</p>
 <p>4.然后重新确认收货，从新来过</p>
 </blockquote>
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/09.jpg" alt="09"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/SAP/%E6%94%B6%E8%B4%A7%E7%A1%AE%E8%AE%A4%E5%8F%8A%E6%9C%8D%E5%8A%A1%E7%A1%AE%E8%AE%A4/blog_sap01_09.jpg" alt="09"></p>
 ]]></content>
       <tags>
         <tag>SAP</tag>
