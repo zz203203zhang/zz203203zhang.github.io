@@ -39,7 +39,7 @@
 
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">Active Internet connections (only servers)</span><br><span class="line">Proto Recv-Q Send-Q Local Address   Foreign Address  State   PID/Program name    </span><br><span class="line">tcp        0      0 0.0.0.0:8848    0.0.0.0:*        LISTEN  8960/nginx: master  </span><br><span class="line">tcp        0      0 0.0.0.0:80      0.0.0.0:*        LISTEN  8960/nginx: master  </span><br><span class="line">tcp        0      0 0.0.0.0:8000    0.0.0.0:*        LISTEN  8960/nginx: master  </span><br><span class="line">tcp6       0      0 :::80           :::*             LISTEN  8960/nginx: master</span><br></pre></td></tr></table></figure>
 
-<p><img src="http://q17kpo7x5.bkt.clouddn.com/Nginx01-01.jpg" alt="Nginx01-01"></p>
+<p><img src="https://numberblog.oss-cn-beijing.aliyuncs.com/Nginx/Nginx01-01.jpg" alt="Nginx01-01"></p>
 <h4 id="Error01"><a href="#Error01" class="headerlink" title="Error01"></a>Error01</h4><blockquote>
 <p>启动nginx时，启动失败，报如下错误</p>
 </blockquote>
